@@ -1,7 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:DemoPage" x:Class="DemoPage.MainPage">
-    <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
-    </StackLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:DemoPage" 
+             x:Class="DemoPage.MainPage">
+    <ScrollView>
+        <StackLayout x:Name="panel"
+                     HorizontalOptions="Center"
+                     VerticalOptions="Center">
+            <Button x:Name="btn1"
+                    BackgroundColor="Blue"
+                    Text="Boton 1"
+                    Clicked="Handle_Clicked"/>
+        </StackLayout>
+    </ScrollView>
 </ContentPage>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="DemoPage.ExtencionesMarcado">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <LayoutOptions x:Key="HorOpt"
+                           Alignment="Start"/>
+            <LayoutOptions x:Key="VerOpt"
+                           Alignment="Center"
+                           Expands="true"/>
+            <x:Double x:Key="FontSize">
+                50
+            </x:Double>
+            <x:Double x:Key="Rot">
+                150
+            </x:Double>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <StackLayout>
+            <Button Text="Clasica"
+                    BorderWidth="3"
+                    TextColor="Red"
+                    FontSize="24"/>
+            <Button Text="Rock" HorizontalOptions="Center"
+                    VerticalOptions="CenterAndExpand"
+                    BorderWidth="3"
+                    FontSize="24"/>
+            <Button Text="Pop"
+                    HorizontalOptions="CenterAndExpand"
+                    VerticalOptions="CenterAndExpand"
+                    BorderWidth="3"
+                    Rotation="-15"
+                    TextColor="Red"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

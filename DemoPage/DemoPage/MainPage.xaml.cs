@@ -13,5 +13,13 @@ namespace DemoPage
         {
             InitializeComponent();
         }
+
+        void Handle_Clicked(object sender, System.EventArgs e)
+        {
+            panel.Children.Add(new Button()
+            {
+                Text = $"Boton{panel.Children.Count + 1}"
+            });
+        }
     }
 }

@@ -11,7 +11,7 @@ namespace DemoPage
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new ExtencionesMarcado();
         }
 
         protected override void OnStart()

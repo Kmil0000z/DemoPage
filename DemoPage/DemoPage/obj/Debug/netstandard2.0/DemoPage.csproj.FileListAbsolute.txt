@@ -1,0 +1,9 @@
+/Users/viovelabtunja19/Documents/CamiloPinzon/Xamarin/DemoPage/DemoPage/DemoPage/bin/Debug/netstandard2.0/DemoPage.deps.json
+/Users/viovelabtunja19/Documents/CamiloPinzon/Xamarin/DemoPage/DemoPage/DemoPage/bin/Debug/netstandard2.0/DemoPage.dll
+/Users/viovelabtunja19/Documents/CamiloPinzon/Xamarin/DemoPage/DemoPage/DemoPage/bin/Debug/netstandard2.0/DemoPage.pdb
+/Users/viovelabtunja19/Documents/CamiloPinzon/Xamarin/DemoPage/DemoPage/DemoPage/obj/Debug/netstandard2.0/DemoPage.csprojResolveAssemblyReference.cache
+/Users/viovelabtunja19/Documents/CamiloPinzon/Xamarin/DemoPage/DemoPage/DemoPage/obj/Debug/netstandard2.0/DemoPage.csproj.CoreCompileInputs.cache
+/Users/viovelabtunja19/Documents/CamiloPinzon/Xamarin/DemoPage/DemoPage/DemoPage/obj/Debug/netstandard2.0/DemoPage.AssemblyInfoInputs.cache
+/Users/viovelabtunja19/Documents/CamiloPinzon/Xamarin/DemoPage/DemoPage/DemoPage/obj/Debug/netstandard2.0/DemoPage.AssemblyInfo.cs
+/Users/viovelabtunja19/Documents/CamiloPinzon/Xamarin/DemoPage/DemoPage/DemoPage/obj/Debug/netstandard2.0/DemoPage.dll
+/Users/viovelabtunja19/Documents/CamiloPinzon/Xamarin/DemoPage/DemoPage/DemoPage/obj/Debug/netstandard2.0/DemoPage.pdb
