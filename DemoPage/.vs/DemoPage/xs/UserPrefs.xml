@@ -1,13 +1,10 @@
 ﻿<Properties StartupConfiguration="{C5CB68B8-D7AE-4DD4-BF95-726EC68BDC27}|Default">
   <MonoDevelop.Ide.ItemProperties.DemoPage.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A998CB77-68F4-4F70-861E-59D7A46D5375" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DemoPage/App.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DemoPage/DemoMasterDetail.xaml">
     <Files>
-      <File FileName="DemoPage/MainPage.xaml" Line="13" Column="47" />
-      <File FileName="DemoPage/MainPage.xaml.cs" Line="21" Column="58" />
-      <File FileName="DemoPage/App.xaml" Line="10" Column="72" />
-      <File FileName="DemoPage/ExtencionesMarcado.xaml" Line="13" Column="36" />
-      <File FileName="DemoPage/ExtencionesMarcado.xaml.cs" Line="1" Column="1" />
       <File FileName="DemoPage/App.xaml.cs" Line="14" Column="46" />
+      <File FileName="DemoPage/DemoMasterDetail.xaml" Line="6" Column="1" />
+      <File FileName="DemoPage/DemoMasterDetail.xaml.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
