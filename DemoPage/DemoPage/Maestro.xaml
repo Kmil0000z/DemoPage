@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="DemoPage.Maestro">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button Text="I'm the master"
+                    TextColor="Navy"
+                    BackgroundColor="Silver"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

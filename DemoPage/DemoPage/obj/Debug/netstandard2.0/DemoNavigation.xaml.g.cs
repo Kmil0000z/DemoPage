@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("DemoPage.DemoMasterDetail.xaml", "DemoMasterDetail.xaml", typeof(global::DemoPage.DemoMasterDetail))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("DemoPage.DemoNavigation.xaml", "DemoNavigation.xaml", typeof(global::DemoPage.DemoNavigation))]
 
 namespace DemoPage {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("DemoMasterDetail.xaml")]
-    public partial class DemoMasterDetail : global::Xamarin.Forms.MasterDetailPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("DemoNavigation.xaml")]
+    public partial class DemoNavigation : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(DemoMasterDetail));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(DemoNavigation));
         }
     }
 }

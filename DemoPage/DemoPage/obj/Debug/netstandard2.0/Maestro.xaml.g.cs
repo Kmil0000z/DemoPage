@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("DemoPage.DemoMasterDetail.xaml", "DemoMasterDetail.xaml", typeof(global::DemoPage.DemoMasterDetail))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("DemoPage.Maestro.xaml", "Maestro.xaml", typeof(global::DemoPage.Maestro))]
 
 namespace DemoPage {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("DemoMasterDetail.xaml")]
-    public partial class DemoMasterDetail : global::Xamarin.Forms.MasterDetailPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Maestro.xaml")]
+    public partial class Maestro : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(DemoMasterDetail));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Maestro));
         }
     }
 }
