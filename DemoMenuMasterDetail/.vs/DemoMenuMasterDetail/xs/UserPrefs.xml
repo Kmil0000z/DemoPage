@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{00356E06-D985-4861-97A7-A81134331959}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DemoMenuMasterDetail/MainPage.xaml">
+    <Files>
+      <File FileName="DemoMenuMasterDetail/MainPage.xaml" Line="7" Column="15" />
+      <File FileName="DemoMenuMasterDetail/MasterPageItem.cs" Line="10" Column="49" />
+      <File FileName="DemoMenuMasterDetail/ContactosPage.xaml" Line="4" Column="14" />
+      <File FileName="DemoMenuMasterDetail/ContactosPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DemoMenuMasterDetail.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DemoMenuMasterDetail.iOS FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DemoMenuMasterDetail FirstBuild="True" />
+</Properties>
