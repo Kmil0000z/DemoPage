@@ -53,3 +53,4 @@
 /Users/viovelabtunja19/Documents/CamiloPinzon/Xamarin/DemoPage/DemoPage/DemoPage.iOS/obj/iPhoneSimulator/Debug/DemoPage.iOS.csproj.CoreCompileInputs.cache
 /Users/viovelabtunja19/Documents/CamiloPinzon/Xamarin/DemoPage/DemoPage/DemoPage.iOS/obj/iPhoneSimulator/Debug/DemoPage.iOS.exe
 /Users/viovelabtunja19/Documents/CamiloPinzon/Xamarin/DemoPage/DemoPage/DemoPage.iOS/obj/iPhoneSimulator/Debug/DemoPage.iOS.pdb
+/Users/viovelabtunja19/Documents/CamiloPinzon/Xamarin/DemoPage/DemoPage/DemoPage.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.4/optimized/xamarin.png

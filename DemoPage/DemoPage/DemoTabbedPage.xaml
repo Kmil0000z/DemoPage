@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="DemoPage.DemoTabbedPage">
+    <TabbedPage.Children>
+        <ContentPage Title="Datos Básicos">
+            <StackLayout HorizontalOptions="Center"
+                         VerticalOptions="Center">
+                <Label Text="Estos son los datos básicos"/>
+            </StackLayout>
+        </ContentPage>
+        <ContentPage Title="Intereses">
+            <StackLayout HorizontalOptions="Center"
+                         VerticalOptions="Center">
+                <Label Text="Estos son los intereses"/>
+            </StackLayout>
+        </ContentPage>
+        <ContentPage Title="Ocupaciones">
+            <StackLayout HorizontalOptions="Center"
+                         VerticalOptions="Center">
+                <Label Text="Estos son las ocupaciones"/>
+            </StackLayout>
+        </ContentPage>
+    </TabbedPage.Children>
+</TabbedPage>

@@ -156,4 +156,10 @@
       <Name>DemoPage</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\xamarin.png" />
+    <BundleResource Include="Resources\gitlab.jpg" />
+    <BundleResource Include="Resources\githubDesktop.jpg" />
+    <BundleResource Include="Resources\github.gif" />
+  </ItemGroup>
 </Project>
