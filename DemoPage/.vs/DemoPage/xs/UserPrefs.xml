@@ -2,11 +2,12 @@
   <MonoDevelop.Ide.ItemProperties.DemoPage.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A998CB77-68F4-4F70-861E-59D7A46D5375" />
   <MonoDevelop.Ide.Workbench ActiveDocument="DemoPage/DemoNavigation.xaml">
     <Files>
-      <File FileName="DemoPage/App.xaml.cs" Line="16" Column="9" />
+      <File FileName="DemoPage/App.xaml.cs" Line="7" Column="2" />
       <File FileName="DemoPage/DemoMasterDetail.xaml" Line="10" Column="25" />
-      <File FileName="DemoPage/Maestro.xaml" Line="9" Column="47" />
+      <File FileName="DemoPage/Maestro.xaml" Line="5" Column="27" />
       <File FileName="DemoPage/Detalle.xaml" Line="8" Column="21" />
-      <File FileName="DemoPage/DemoNavigation.xaml" Line="4" Column="14" />
+      <File FileName="DemoPage/DemoNavigation.xaml" Line="14" Column="37" />
+      <File FileName="DemoPage/DemoNavigation.xaml.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
