@@ -1,17 +1,6 @@
 ﻿<Properties StartupConfiguration="{C5CB68B8-D7AE-4DD4-BF95-726EC68BDC27}|Default">
   <MonoDevelop.Ide.ItemProperties.DemoPage.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A998CB77-68F4-4F70-861E-59D7A46D5375" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DemoPage.iOS/Main.cs">
-    <Files>
-      <File FileName="DemoPage/App.xaml.cs" Line="7" Column="2" />
-      <File FileName="DemoPage/Page2.xaml" Line="14" Column="37" />
-      <File FileName="DemoPage/Page2.xaml.cs" Line="30" Column="89" />
-      <File FileName="DemoPage/DemoNavigation.xaml" Line="13" Column="45" />
-      <File FileName="DemoPage/DemoNavigation.xaml.cs" Line="17" Column="53" />
-      <File FileName="DemoPage/Page3.xaml" Line="24" Column="1" />
-      <File FileName="DemoPage/Page3.xaml.cs" Line="1" Column="1" />
-      <File FileName="DemoPage.iOS/Main.cs" Line="17" Column="1" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
