@@ -11,5 +11,20 @@ namespace DemoPage
         {
             InitializeComponent();
         }
+
+        void Handle_Clicked(object sender, System.EventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
+        void Handle_Clicked_1(object sender, System.EventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
+        void Handle_Clicked_2(object sender, System.EventArgs e)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

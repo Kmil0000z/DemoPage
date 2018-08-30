@@ -7,10 +7,14 @@
             <Label Text="Esta es la Página 2"
                    XAlign="Center"
                    Margin="30"/>
-            <Label x:Name="lbOpcion"/>
+            <Label x:Name="lbOpcion"
+                   VerticalOptions="CenterAndExpand"
+                   XAlign="Center"
+                   FontSize="40"/>
             <Button x:Name="btnTest"
                     Text="Test"
-                    Clicked="Handle_Clicked_1"/>
+                    Clicked="Handle_Clicked_1"
+                    VerticalOptions="EndAndExpand"/>
             <Button x:Name="btnTres"
                     Text="Siguiente"
                     Clicked="Handle_Clicked"/>
