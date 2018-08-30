@@ -12,9 +12,9 @@ namespace DemoPage
             InitializeComponent();
         }
 
-        void Handle_Clicked(object sender, System.EventArgs e)
+        async void Handle_Clicked(object sender, System.EventArgs e)
         {
-            throw new NotImplementedException();
+            await Navigation.PushAsync(new Page2());
         }
     }
 }

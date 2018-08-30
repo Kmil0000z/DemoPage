@@ -3,11 +3,12 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="DemoPage/DemoNavigation.xaml">
     <Files>
       <File FileName="DemoPage/App.xaml.cs" Line="7" Column="2" />
-      <File FileName="DemoPage/DemoMasterDetail.xaml" Line="10" Column="25" />
-      <File FileName="DemoPage/Maestro.xaml" Line="5" Column="27" />
-      <File FileName="DemoPage/Detalle.xaml" Line="8" Column="21" />
-      <File FileName="DemoPage/DemoNavigation.xaml" Line="14" Column="37" />
-      <File FileName="DemoPage/DemoNavigation.xaml.cs" Line="1" Column="1" />
+      <File FileName="DemoPage/Page2.xaml" Line="13" Column="46" />
+      <File FileName="DemoPage/Page2.xaml.cs" Line="18" Column="44" />
+      <File FileName="DemoPage/DemoNavigation.xaml" Line="13" Column="45" />
+      <File FileName="DemoPage/DemoNavigation.xaml.cs" Line="18" Column="10" />
+      <File FileName="DemoPage/Page3.xaml" Line="4" Column="14" />
+      <File FileName="DemoPage/Page3.xaml.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

@@ -5,13 +5,15 @@
              Title="Navegacion">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Esta es una página de navegación"/>
-            <Button HeightRequest="100"
-                    WidthRequest="200"
-                    Text="Página 2"
+            <Label Text="Esta es una página de navegación"
+                   XAlign="Center"
+                   Margin="30"/>
+            <Button HeightRequest="50"
+                    Text="Ir Página 2"
                     Clicked="Handle_Clicked"
                     BackgroundColor="Black"
-                    TextColor="White"/>
+                    TextColor="White"
+                    VerticalOptions="EndAndExpand"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
